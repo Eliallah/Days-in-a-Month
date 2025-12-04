@@ -1,11 +1,4 @@
-/* Name: (Eliallah Dadzie)
-Date: (02/04/2023)
-Assignment: (Assignment #2)
-Due Date: (02/06/2023)
-About this project: ( Calculating the months and figuring out which has 31, 30, 28 and 29 days)
-Assumptions: ( I assume that the user will input the correct numbers.)
-All work below was performed by (Eliallah Dadzie) */
-
+/* Name: (Eliallah Dadzie) */
 
 #include <iostream>
 #include <iomanip> 
